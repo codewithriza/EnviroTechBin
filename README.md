@@ -24,9 +24,9 @@ The AI-Powered Waste Sorting and Recycling Assistant is a project dedicated to a
 To use or contribute to this project, follow these steps:
 
 1. Clone the repository:
-   
-       git clone https://github.com/CODEWITHRIZA/AI-Powered-Waste-Sorting-and-Recycling-Assistant
 
+
+         git clone https://github.com/CODEWITHRIZA/EnviroTechBin
 2.Install the required libraries and dependencies:
       
     pip install -r requirements.txt
