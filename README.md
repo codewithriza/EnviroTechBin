@@ -1,6 +1,4 @@
-# AI-Powered Waste Sorting and Recycling Assistant
-
-![Project Logo](tree.png)
+# EnviroTechBin
 
 ## Overview
 
