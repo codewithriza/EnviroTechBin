@@ -29,7 +29,7 @@
 
 <img src="project1.png" width="200" alt="Project Logo 1">
 <img src="project2.png" width="200" alt="Project Logo 2">
-<img src="project3.png" width="200" alt="Project Logo 3">
+
 
 
 # Project Details
