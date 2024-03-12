@@ -66,6 +66,8 @@
 
 ₹1500
 
-## Contact
 
-For any questions or inquiries, please reach out to us via email at codewithriza@gmail.com. ✉️
+---
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887532157747212370)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/codewithriza)
+
