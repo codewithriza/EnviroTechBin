@@ -2,7 +2,7 @@
 
 ## Overview
 
->EnviroTechBin represents a groundbreaking initiative aimed at revolutionizing global waste management. Our project focuses on leveraging cutting-edge computer vision and machine learning technologies to tackle the challenges surrounding waste sorting and recycling. By integrating AI-driven solutions, our mission is to provide real-time assistance, educational resources, and community engagement to foster responsible waste management practices and promote recycling efforts globally. ♻️🌍
+>[EnviroTechBin](https://github.com/codewithriza/EnviroTechBin) represents a groundbreaking initiative aimed at revolutionizing global waste management. Our project focuses on leveraging cutting-edge computer vision and machine learning technologies to tackle the challenges surrounding waste sorting and recycling. By integrating AI-driven solutions, our mission is to provide real-time assistance, educational resources, and community engagement to foster responsible waste management practices and promote recycling efforts globally. ♻️🌍
 
 ### Key Features
 
